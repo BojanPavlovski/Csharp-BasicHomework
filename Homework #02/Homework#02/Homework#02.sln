@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfEven", "SumOfEven\SumOfEven.csproj", "{AAA4CB5E-CA00-4265-A2E9-BDA19A01EFC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGroup", "StudentGroup\StudentGroup.csproj", "{69827F15-A2DF-40AF-8CFE-C2D7A9D7961F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA4CB5E-CA00-4265-A2E9-BDA19A01EFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA4CB5E-CA00-4265-A2E9-BDA19A01EFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA4CB5E-CA00-4265-A2E9-BDA19A01EFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA4CB5E-CA00-4265-A2E9-BDA19A01EFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69827F15-A2DF-40AF-8CFE-C2D7A9D7961F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69827F15-A2DF-40AF-8CFE-C2D7A9D7961F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69827F15-A2DF-40AF-8CFE-C2D7A9D7961F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69827F15-A2DF-40AF-8CFE-C2D7A9D7961F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43518343-499C-423B-8F18-9648109317D8}
+	EndGlobalSection
+EndGlobal
