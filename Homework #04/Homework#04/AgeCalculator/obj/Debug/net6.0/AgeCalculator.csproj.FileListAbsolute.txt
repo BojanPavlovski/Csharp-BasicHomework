@@ -1,0 +1,15 @@
+C:\Users\Bojan\Desktop\Homework #04\Homework#04\AgeCalculator\bin\Debug\net6.0\AgeCalculator.exe
+C:\Users\Bojan\Desktop\Homework #04\Homework#04\AgeCalculator\bin\Debug\net6.0\AgeCalculator.deps.json
+C:\Users\Bojan\Desktop\Homework #04\Homework#04\AgeCalculator\bin\Debug\net6.0\AgeCalculator.runtimeconfig.json
+C:\Users\Bojan\Desktop\Homework #04\Homework#04\AgeCalculator\bin\Debug\net6.0\AgeCalculator.dll
+C:\Users\Bojan\Desktop\Homework #04\Homework#04\AgeCalculator\bin\Debug\net6.0\AgeCalculator.pdb
+C:\Users\Bojan\Desktop\Homework #04\Homework#04\AgeCalculator\obj\Debug\net6.0\AgeCalculator.csproj.AssemblyReference.cache
+C:\Users\Bojan\Desktop\Homework #04\Homework#04\AgeCalculator\obj\Debug\net6.0\AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bojan\Desktop\Homework #04\Homework#04\AgeCalculator\obj\Debug\net6.0\AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\Bojan\Desktop\Homework #04\Homework#04\AgeCalculator\obj\Debug\net6.0\AgeCalculator.AssemblyInfo.cs
+C:\Users\Bojan\Desktop\Homework #04\Homework#04\AgeCalculator\obj\Debug\net6.0\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Bojan\Desktop\Homework #04\Homework#04\AgeCalculator\obj\Debug\net6.0\AgeCalculator.dll
+C:\Users\Bojan\Desktop\Homework #04\Homework#04\AgeCalculator\obj\Debug\net6.0\refint\AgeCalculator.dll
+C:\Users\Bojan\Desktop\Homework #04\Homework#04\AgeCalculator\obj\Debug\net6.0\AgeCalculator.pdb
+C:\Users\Bojan\Desktop\Homework #04\Homework#04\AgeCalculator\obj\Debug\net6.0\AgeCalculator.genruntimeconfig.cache
+C:\Users\Bojan\Desktop\Homework #04\Homework#04\AgeCalculator\obj\Debug\net6.0\ref\AgeCalculator.dll
