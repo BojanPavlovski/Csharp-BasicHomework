@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bojan\\Desktop\\Homework #02\\Homework#02\\SumOfEven\\SumOfEven.csproj": {}
+    "C:\\Users\\Bojan\\Desktop\\c# repo\\Homework #02\\Homework#02\\SumOfEven\\SumOfEven.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bojan\\Desktop\\Homework #02\\Homework#02\\SumOfEven\\SumOfEven.csproj": {
+    "C:\\Users\\Bojan\\Desktop\\c# repo\\Homework #02\\Homework#02\\SumOfEven\\SumOfEven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bojan\\Desktop\\Homework #02\\Homework#02\\SumOfEven\\SumOfEven.csproj",
+        "projectUniqueName": "C:\\Users\\Bojan\\Desktop\\c# repo\\Homework #02\\Homework#02\\SumOfEven\\SumOfEven.csproj",
         "projectName": "SumOfEven",
-        "projectPath": "C:\\Users\\Bojan\\Desktop\\Homework #02\\Homework#02\\SumOfEven\\SumOfEven.csproj",
+        "projectPath": "C:\\Users\\Bojan\\Desktop\\c# repo\\Homework #02\\Homework#02\\SumOfEven\\SumOfEven.csproj",
         "packagesPath": "C:\\Users\\Bojan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bojan\\Desktop\\Homework #02\\Homework#02\\SumOfEven\\obj\\",
+        "outputPath": "C:\\Users\\Bojan\\Desktop\\c# repo\\Homework #02\\Homework#02\\SumOfEven\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
